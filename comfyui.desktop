@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ComfyUI
+Comment=Запуск ComfyUI
+Exec=/путь_к_/launch.sh
+Path=//путь_к_/ComfyUI
+Icon=/путь_к_/ComfyUI/comfyui.svg
+Terminal=false
+Categories=Graphics;
+StartupNotify=true
